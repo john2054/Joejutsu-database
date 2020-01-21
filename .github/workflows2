@@ -1,0 +1,4 @@
+PRINT "Hello stranger, please enter your name"
+INPUT $Playername
+PRINT "Hello" $Playername
+END
