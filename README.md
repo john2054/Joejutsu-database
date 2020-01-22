@@ -1,2 +1,2 @@
-# StreetFighter
-Street fighting text based game
+# Joejutsu John Robinson's Martial Art
+Data base of Joejutsu practitioners
